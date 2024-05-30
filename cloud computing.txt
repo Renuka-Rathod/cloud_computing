@@ -1,0 +1,57 @@
+*cloud computing:
+
+MULTI CLOUD{
+AWS - Amazon Web Service  8-10 servises
+Microsoft- Azure          5-6 Servises
+Google- GCP               3-4 servises
+
+}
+
+
+operating System:
+1] Linux
+
+BigData - Hadoop
+
+# Roles of Cloud Computing:
+1] Cloud Consumer
+2] cloud Provider- AWS, Azure, GCP, Alibaba, ORACLE, IBM
+3] cloud Auditor
+4] Cloud Broker
+        
+5] Cloud Carrier
+
+ # Best tools in Cloud Computing:
+  1] cloudability - Financial management tool, biling main, msg, prepare report
+SAAS- 
+2]  Cloudyn
+
+3] CloudHub - PAAS
+            
+4] informatics
+
+5] Chef
+
+6]  Puppet- 
+          Open source
+           configuration management tool that allows system 
+
+7] Atomsphere - Software application.
+8] Right Scale - mediator between application cloud.
+9] agility platform
+10] enstruates
+
+#SOFTWARE DEVELOPMENT  LIFE CYCLE[SDLC]:
+  
+SDLC is the cost- effective and time - efficient process 
+
+# Stages SDLC:
+ 1] Planning
+2] Client Requirement
+3] Designing
+4] Coding/ Impementation
+5] Testing
+6] Deployment / Maintainance
+7] Support/ updates
+
+
